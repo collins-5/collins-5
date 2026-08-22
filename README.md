@@ -6,7 +6,7 @@
 
 Building production apps for African markets — from marketplace platforms to mental health tech, one clean commit at a time.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/collins-otieno-5a2b8b1b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/collins-otieno-12148b292)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/collins-5)
 
 </div>
