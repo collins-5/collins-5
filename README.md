@@ -6,8 +6,7 @@
 
 Building production apps for African markets — from marketplace platforms to mental health tech, one clean commit at a time.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/collins-otieno-5a2b8b1b4)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/collins-5)
 
 </div>
@@ -16,39 +15,72 @@ Building production apps for African markets — from marketplace platforms to m
 
 ## 👨🏾‍💻 About Me
 
-- 🎓 Final-year Software Engineering student at **Co-operative University of Kenya**
-- 🛠️ Full-stack developer working across **React Native/Expo**, **Next.js**, **Django/GraphQL**, and **Supabase**
-- 🏗️ Currently building **Equip Africa** — a pan-African heavy machinery hire/sale marketplace, and **Mentally** — an AI-powered mental health professional booking platform for Kenya
-- 🧠 Interested in AI-integrated products, fintech (M-Pesa/Pesapal payment rails), and building tools that solve real problems for African users
-- 🌱 Also ship side projects for the fun of it — from encrypted messaging terminals to custom terminal media players
+- 💼 **Software Engineer at Equip Africa** (Jan 2025 – Present, Contract, Nairobi) — building and maintaining full-stack web and mobile applications for a pan-African heavy machinery hire/sale marketplace
+- 📱 Previously **Mobile Developer at Rastuc Technologies** — built a cross-platform patient app in React Native, integrated GraphQL APIs, and implemented auth, secure data handling, and offline capabilities
+- 🎓 Final-year **BSc Software Engineering** student at Co-operative University of Kenya (2022 – 2026, expected graduation November 2026)
+- 🧑‍💻 Coding Club member — coding challenges, hackathons, and mentoring junior students
+- 🧠 Also building **Mentally** — an AI-powered mental health professional booking platform for Kenya
+- 🌍 Interested in AI-integrated products and fintech (M-Pesa/Pesapal payment rails) for African markets
+- 🌱 Ship side projects for fun — from encrypted messaging terminals to custom terminal media players
+- 🗣️ English (fluent) · Kiswahili (native)
+
+<div align="center">
+
+| 15+ | 2+ | 15+ |
+|:---:|:---:|:---:|
+| Projects Built | Years Experience | Technologies |
+
+</div>
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages & Core**
+**Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frontend & Mobile**
+**Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Backend & Data**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+**Backend & APIs**
+![Django](https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)
+
+**Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-**Tooling & Platforms**
+**Mobile**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+**DevOps & Hosting**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Tooling**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 
 ---
 
@@ -92,6 +124,6 @@ I'm always open to discussing full-stack engineering, mobile development, or fin
 
 <div align="center">
 
-📍 Nairobi, Kenya &nbsp;|&nbsp; 🎓 BSc. Software Engineering, Co-operative University of Kenya
+📍 Nairobi, Kenya &nbsp;|&nbsp; 🎓 BSc. Software Engineering, Co-operative University of Kenya (Expected Nov 2026) &nbsp;|&nbsp; 💼 Software Engineer @ Equip Africa
 
 </div>
