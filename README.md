@@ -15,7 +15,7 @@ Building production apps for African markets — from marketplace platforms to m
 
 ## 👨🏾‍💻 About Me
 
-- 💼 **Software Engineer at Equip Africa** (Jan 2025 – Present, Contract, Nairobi) — building and maintaining full-stack web and mobile applications for a pan-African heavy machinery hire/sale marketplace
+- 💼 **Software Engineer at Equip Africa** (Jan 2026 – Present, Contract, Nairobi) — building and maintaining full-stack web and mobile applications for a pan-African heavy machinery hire/sale marketplace
 - 📱 Previously **Mobile Developer at Rastuc Technologies** — built a cross-platform patient app in React Native, integrated GraphQL APIs, and implemented auth, secure data handling, and offline capabilities
 - 🎓 Final-year **BSc Software Engineering** student at Co-operative University of Kenya (2022 – 2026, expected graduation November 2026)
 - 🧑‍💻 Coding Club member — coding challenges, hackathons, and mentoring junior students
