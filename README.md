@@ -1,9 +1,6 @@
 <div align="center">
 
 # Hi, I'm Collins Otieno 👋
-<div align="center">
-
-# Hi, I'm Collins Otieno 👋
 
 ### Full-Stack Software Engineer • Kenya 🇰🇪
 
