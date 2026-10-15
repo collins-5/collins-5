@@ -84,40 +84,6 @@ Building production apps for African markets — from marketplace platforms to m
 
 ---
 
-## 🚀 Featured Work
-
-### 🏗️ [Equip Africa](https://github.com/collins-5)
-Pan-African heavy machinery hire/sale marketplace. Django + Graphene GraphQL backend, React/TypeScript web, and a React Native/Expo mobile app with Apollo Client, NativeWind, and FlashList. Built multi-step listing flows, an inquiries system, ratings/reviews, Google Sign-In with role selection, and a shared **Pesapal payment gateway microservice** (Prisma, Neon Postgres, HMAC-signed webhooks) — battle-tested with real M-Pesa sandbox transactions.
-
-### 🧠 Mentally
-AI-powered mental health professional booking platform for Kenya — Next.js web dashboard + React Native/Expo mobile app on Supabase. Shipped a full admin system with disbursement tracking, an M-Pesa STK Push payment pipeline with DB-level safeguards, a notifications system (Postgres triggers → Edge Functions → Expo Push/FCM), Google Meet auto-generation, and an anonymous peer-support forum with crisis detection tuned for Kenya-specific resources.
-
-### 🏫 ShuleLive
-Full React Native/Expo school management app for the Kenyan market — four roles (parent, teacher, driver, admin) on one shared codebase, with a custom tab navigator, role-switching, and an RFID bus-scanner terminal built on a keyboard-wedge HID pattern.
-
-### 🔐 DIVISION // Secure Uplink
-An E2E-encrypted messaging terminal styled after *Nikita* — Next.js, libsodium, and Supabase behind a green-on-black CRT aesthetic. Built purely because it was fun.
-
-### 📱 QR Code Scanner (v1.0.0)
-Published React Native app — [`collins-5/Qr-code_scanner`](https://github.com/collins-5/Qr-code_scanner) — with a real scannable QR generator, spring-animated scanner overlay, and an optimized APK footprint.
-
-### 🏦 VaultBank
-React Native banking app concept with PIN + biometric auth, Supabase RLS, full tab navigation, and PDF statement export.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Collins' GitHub stats](https://github-readme-stats.vercel.app/api?username=collins-5&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=collins-5&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=collins-5&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 💬 Let's Connect
 
 I'm always open to discussing full-stack engineering, mobile development, or fintech/health-tech products for the African market.
